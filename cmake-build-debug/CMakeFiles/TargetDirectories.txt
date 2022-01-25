@@ -1,0 +1,3 @@
+/Users/sasmit/Downloads/drive-download-20220123T021521Z-001/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sasmit/Downloads/drive-download-20220123T021521Z-001/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sasmit/Downloads/drive-download-20220123T021521Z-001/cmake-build-debug/CMakeFiles/sol.dir
